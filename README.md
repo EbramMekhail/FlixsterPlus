@@ -30,6 +30,9 @@ Here's a walkthrough of implemented user stories:
 ![FlixsterPlus Gif](https://github.com/EbramMekhail/FlixsterPlus/assets/84204243/e8c724f3-981f-42dc-acc2-939c5fd39c6b)
 
 
+Glide Implmentation with placeholder Graphics during loading:
+<img width="854" alt="Glide" src="https://github.com/EbramMekhail/FlixsterPlus/assets/84204243/66f02343-5336-4cec-99a9-3f4b39ebc173">
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 
