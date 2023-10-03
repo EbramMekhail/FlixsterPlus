@@ -54,6 +54,7 @@ class MoviesRecyclerViewAdapter(
 
         Glide.with(holder.mView)
             .load("https://image.tmdb.org/t/p/w500" + movie.movieImageUrl)
+            .placeholder(R.drawable.ic_launcher_background)
             .centerInside()
             .into(holder.mMovieImage)
     }
