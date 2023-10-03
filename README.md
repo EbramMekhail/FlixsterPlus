@@ -27,11 +27,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+![FlixsterPlus Gif](https://github.com/EbramMekhail/FlixsterPlus/assets/84204243/e8c724f3-981f-42dc-acc2-939c5fd39c6b)
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-
-![FlixsterPlus Gif](https://github.com/EbramMekhail/FlixsterPlus/assets/84204243/e8c724f3-981f-42dc-acc2-939c5fd39c6b)
 
 [EzGif](https://ezgif.com/)
 
